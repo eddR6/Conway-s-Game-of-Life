@@ -4,11 +4,11 @@
 -Grass is used to show inactive blocks\
 -Iron Man is used to show active blocks\
 -Nested coroutine has been used to insert custom delay between 2 consecutive steps.\
-#Instructions\
+# Instructions\
 -Start the game in unity editor\
 -Click on random Board button to get a random board generated to begin with\
 -Click on Start button to start the game\
-#Notes\
+# Notes\
 -The delay time can be changed from the inspector\
 -50x50 pixel tiles are used with 2x scaling.\
 -New random board can be selected without exiting the game once previous one finishes. \
